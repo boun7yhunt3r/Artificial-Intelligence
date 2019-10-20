@@ -1,5 +1,5 @@
 # mnist_deep.py
-
+# NEVER SHARE IT
 # original file from Google:
 # https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_deep.py
 
